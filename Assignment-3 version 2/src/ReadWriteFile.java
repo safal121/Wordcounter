@@ -1,6 +1,5 @@
 
 
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
@@ -20,7 +19,7 @@ public class ReadWriteFile {
 	 * @return void
 	 */
 	public  void writeToFile(){
-		try{
+		try{dfdfd
 		Scanner sc=new Scanner(System.in);
 		String line=sc.nextLine();
 		sc.close();

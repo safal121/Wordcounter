@@ -1,5 +1,4 @@
 
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
@@ -12,6 +11,7 @@ import java.util.Scanner;
  * @version 1.0
  * @Date 2069/12/2
  */
+ // do something here so that you can do another something good
 public class ReadWriteFile {
 	/**
 	 * Writes a string of line to File

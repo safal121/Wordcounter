@@ -1,5 +1,4 @@
 
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
@@ -11,7 +10,7 @@ import java.util.Hashtable;
  * @version 1.0
  * @Date 2069/12/2
  */
-
+//dfdsfasdfsasdfa
 public class FindOutput {
 	/**
 	 * Finds and Display the number of occurrence of Strings
@@ -44,7 +43,7 @@ public class FindOutput {
 	
 		for (int i=0;i<index.size()-1;i++)
 			words.add(str.substring((index.get(i))+1,index.get(i+1)));
-		
+		//fdssasdfasdf
 		for(int i=0;i<words.size();i++){	
 			if(words.get(i).equals(" ")){
 				words.remove(i);

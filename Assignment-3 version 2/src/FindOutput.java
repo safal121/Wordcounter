@@ -1,5 +1,4 @@
 
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
@@ -11,6 +10,7 @@ import java.util.Hashtable;
  * @version 1.0
  * @Date 2069/12/2
  */
+ //re3rierie
 
 public class FindOutput {
 	/**
